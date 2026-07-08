@@ -1,0 +1,14 @@
+[project]
+name = "01-embeddings"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.1",
+    "ollama>=0.6.2",
+    "openai>=2.44.0",
+    "pandas>=3.0.3",
+    "pymupdf>=1.28.0",
+    "python-dotenv>=1.2.2",
+]
