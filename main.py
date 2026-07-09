@@ -20,10 +20,11 @@ def main():
         for pdf_file in pdf_files:
             pdf_text = read_pdf(pdf_file)
             pdf_chunks = split_into_chunks(pdf_text, chunk_size=500, overlap=100)
-            for chunk in pdf_chunks:
+            for i, chunk in enumerate(pdf_chunks):
                 chunks.append({
                     "text": chunk,
-                    "pdf_file": pdf_file
+                    "pdf_file": pdf_file,
+                    "chunk_id": i
                 })
         chunk_embeddings=create_embeddings(chunks)
         save_embeddings(chunks,chunk_embeddings)
@@ -32,23 +33,30 @@ def main():
     print(f"Număr chunk-uri: {len(chunks)}")
     print(f"Număr embeddings: {len(chunk_embeddings)}")
     print(f"Dimensiunea unui embedding: {len(chunk_embeddings[0])}")
+    conversation=[]
+    while True:
+        query = input("\nTU: ")
+        if query.lower() == "exit":
+            print("Ieșire din program.")
+            return
+        results = search(query, chunks, index)
 
-    query = input("\nÎntrebare: ")
-    results = search(query, chunks, index)
+        answer = generate_answer(query, results)
 
-    answer = generate_answer(query, results)
+        print("\nRezultate:\n")
 
-    print("\nRezultate:\n")
-
-    for score, chunk in results:
+        for score, chunk in results:
+            print("=" * 60)
+            print(f"Similarity: {score:.4f}\n")
+            print(f"PDF: {chunk['pdf_file']}")
+            print(f"Chunk: {chunk['chunk_id']}")
+            print()
+            print(chunk)
+            print()
+        
         print("=" * 60)
-        print(f"Similarity: {score:.4f}\n")
-        print(chunk)
-        print()
-    
-    print("=" * 60)
-    print("Răspunsul modelului:\n")
-    print(answer)
+        print("Răspunsul modelului:\n")
+        print(answer)
 
 
 if __name__ == "__main__":
