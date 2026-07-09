@@ -1,6 +1,6 @@
 from ollama import chat
 
-def generate_answer(query,results):
+def generate_answer(query,results,conversation):
     context = "\n\n".join(
     chunk["text"] for _, chunk in results
 )
@@ -19,15 +19,14 @@ Context:
 Question:
 {query}
 """
-
+    messages=conversation.copy()
+    messages.append({
+        "role":"user",
+        "content":prompt
+    })
     response = chat(
         model="llama3.1:8b",
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ]
+        messages=messages
     )
 
     return response["message"]["content"]

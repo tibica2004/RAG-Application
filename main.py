@@ -34,6 +34,8 @@ def main():
     print(f"Număr embeddings: {len(chunk_embeddings)}")
     print(f"Dimensiunea unui embedding: {len(chunk_embeddings[0])}")
     conversation=[]
+    MAX_TURNS = 5
+    MAX_HISTORY = MAX_TURNS * 2
     while True:
         query = input("\nTU: ")
         if query.lower() == "exit":
@@ -41,8 +43,19 @@ def main():
             return
         results = search(query, chunks, index)
 
-        answer = generate_answer(query, results)
+        answer = generate_answer(query, results,conversation)
+        conversation.append({
+            "role":"user",
+            "content":query
+        })
 
+        conversation.append({
+            "role":"assistant",
+            "content":answer
+        })
+        
+        if len(conversation)>MAX_HISTORY:
+            conversation=conversation[-MAX_HISTORY:]
         print("\nRezultate:\n")
 
         for score, chunk in results:
