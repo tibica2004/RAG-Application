@@ -6,6 +6,8 @@ from src.vector_store import create_faiss_index, search
 from src.rag import generate_answer
 from src.vector_store import save_embeddings, load_embeddings, save_faiss_index, load_faiss_index
 from src.retriever import retrieve
+from src.router import route_query
+from src.rag import generate_answer, chat_answer
 
 def main():
     if os.path.exists("embeddings.json") and os.path.exists("faiss.index"):
@@ -42,8 +44,14 @@ def main():
         if query.lower() == "exit":
             print("Ieșire din program.")
             return
-        top_results=retrieve(query,chunks,index)
-        answer = generate_answer(query, top_results,conversation)
+        route=route_query(query)
+
+        if route=="chat":
+            top_results=[]
+            answer=chat_answer(query,conversation)
+        else:
+            top_results=retrieve(query,chunks,index)
+            answer=generate_answer(query,top_results,conversation)
         conversation.append({
             "role":"user",
             "content":query
@@ -56,16 +64,17 @@ def main():
         
         if len(conversation)>MAX_HISTORY:
             conversation=conversation[-MAX_HISTORY:]
-        print("\nRezultate:\n")
+        if top_results:
+            print("\nRezultate:\n")
 
-        for score, chunk in top_results:
-            print("=" * 60)
-            print(f"Similarity: {score:.4f}\n")
-            print(f"PDF: {chunk['pdf_file']}")
-            print(f"Chunk: {chunk['chunk_id']}")
-            print()
-            print(chunk["text"])
-            print()
+            for score, chunk in top_results:
+                print("=" * 60)
+                print(f"Similarity: {score:.4f}\n")
+                print(f"PDF: {chunk['pdf_file']}")
+                print(f"Chunk: {chunk['chunk_id']}")
+                print()
+                print(chunk["text"])
+                print()
         
         print("=" * 60)
         print("Răspunsul modelului:\n")

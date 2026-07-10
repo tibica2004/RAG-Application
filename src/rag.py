@@ -30,3 +30,22 @@ Question:
     )
 
     return response["message"]["content"]
+
+def chat_answer(query,conversation):
+    messages=[
+        {
+            "role":"system",
+            "content":"You are a helpful AI assistant."
+        }
+    ]
+
+    messages.extend(conversation)
+    messages.append({
+        "role":"user",
+        "content":query
+    })
+    response = chat(
+        model="llama3.1:8b",
+        messages=messages
+    )
+    return response["message"]["content"]
