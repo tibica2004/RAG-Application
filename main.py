@@ -5,6 +5,7 @@ from src.embeddings import create_embeddings
 from src.vector_store import create_faiss_index, search
 from src.rag import generate_answer
 from src.vector_store import save_embeddings, load_embeddings, save_faiss_index, load_faiss_index
+from src.retriever import retrieve
 
 def main():
     if os.path.exists("embeddings.json") and os.path.exists("faiss.index"):
@@ -41,9 +42,8 @@ def main():
         if query.lower() == "exit":
             print("Ieșire din program.")
             return
-        results = search(query, chunks, index)
-
-        answer = generate_answer(query, results,conversation)
+        top_results=retrieve(query,chunks,index)
+        answer = generate_answer(query, top_results,conversation)
         conversation.append({
             "role":"user",
             "content":query
@@ -58,13 +58,13 @@ def main():
             conversation=conversation[-MAX_HISTORY:]
         print("\nRezultate:\n")
 
-        for score, chunk in results:
+        for score, chunk in top_results:
             print("=" * 60)
             print(f"Similarity: {score:.4f}\n")
             print(f"PDF: {chunk['pdf_file']}")
             print(f"Chunk: {chunk['chunk_id']}")
             print()
-            print(chunk)
+            print(chunk["text"])
             print()
         
         print("=" * 60)

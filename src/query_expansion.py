@@ -24,6 +24,9 @@ def generate_queries(query, num_queries=3):
             "content":prompt,
         }]
     )
-    generated_text=response["messages"]["content"]
+    generated_text=response["message"]["content"]
     queries=generated_text.splitlines()
+    queries=[q.strip() for q in queries if q.strip()]
+    queries = list(dict.fromkeys([query] + queries))
+    return queries
 
