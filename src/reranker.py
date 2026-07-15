@@ -23,4 +23,4 @@ def rerank(query,results):
             item["score"],
             chunk
         ))
-        return reranked_results
+    return reranked_results

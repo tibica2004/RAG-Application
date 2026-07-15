@@ -45,7 +45,7 @@ def main():
             print("Ieșire din program.")
             return
         route=route_query(query)
-
+        print(f"[Route] Selected route: {route}")
         if route=="chat":
             top_results=[]
             answer=chat_answer(query,conversation)

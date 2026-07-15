@@ -1,0 +1,1000 @@
+{"text": "Hi there!", "label": 0}
+{"text": "Hello!", "label": 0}
+{"text": "Hey, how's it going?", "label": 0}
+{"text": "Good morning!", "label": 0}
+{"text": "Good afternoon!", "label": 0}
+{"text": "Good evening!", "label": 0}
+{"text": "What's up?", "label": 0}
+{"text": "How are you doing today?", "label": 0}
+{"text": "Nice to chat with you.", "label": 0}
+{"text": "Long time no talk!", "label": 0}
+{"text": "Hey Claude, how's your day?", "label": 0}
+{"text": "What have you been up to?", "label": 0}
+{"text": "Howdy!", "label": 0}
+{"text": "Yo!", "label": 0}
+{"text": "Hi, can we just chat for a bit?", "label": 0}
+{"text": "What's new with you?", "label": 0}
+{"text": "How's everything going on your end?", "label": 0}
+{"text": "Hope you're having a good day.", "label": 0}
+{"text": "Just wanted to say hi.", "label": 0}
+{"text": "Hey, I'm back!", "label": 0}
+{"text": "Good to see you again.", "label": 0}
+{"text": "What's happening?", "label": 0}
+{"text": "Hiya!", "label": 0}
+{"text": "Hey there, friend.", "label": 0}
+{"text": "Morning! How are things?", "label": 0}
+{"text": "Evening! What's going on?", "label": 0}
+{"text": "Sup?", "label": 0}
+{"text": "Hello again!", "label": 0}
+{"text": "Hey, quick check-in, how are you?", "label": 0}
+{"text": "Hi Claude, hope you're well.", "label": 0}
+{"text": "Just saying hello.", "label": 0}
+{"text": "Hey, got a minute to chat?", "label": 0}
+{"text": "How's your week been?", "label": 0}
+{"text": "What's a good icebreaker question?", "label": 0}
+{"text": "Can we just have a casual conversation?", "label": 0}
+{"text": "I'm just testing you out, hi!", "label": 0}
+{"text": "Hello, is anyone there?", "label": 0}
+{"text": "Hey, are you free to talk?", "label": 0}
+{"text": "Hi, I'm new here, how does this work?", "label": 0}
+{"text": "What's the best way to start a conversation with you?", "label": 0}
+{"text": "Hey, just checking in.", "label": 0}
+{"text": "Hi, hope your day is going smoothly.", "label": 0}
+{"text": "Yo Claude, what's good?", "label": 0}
+{"text": "Hey, want to chat about random stuff?", "label": 0}
+{"text": "Hi, I'm feeling chatty today.", "label": 0}
+{"text": "Hello! Nice to meet you.", "label": 0}
+{"text": "Hi, I've never used an AI assistant before.", "label": 0}
+{"text": "Hey, how's the weather where you are, haha?", "label": 0}
+{"text": "Good to connect with you.", "label": 0}
+{"text": "Hiya, how are things on your side?", "label": 0}
+{"text": "Thanks a lot!", "label": 0}
+{"text": "Thank you so much for your help.", "label": 0}
+{"text": "I really appreciate it, thanks!", "label": 0}
+{"text": "Thanks, that was helpful.", "label": 0}
+{"text": "Much appreciated!", "label": 0}
+{"text": "Thanks for the chat.", "label": 0}
+{"text": "Okay, thanks, bye for now.", "label": 0}
+{"text": "Goodbye!", "label": 0}
+{"text": "See you later!", "label": 0}
+{"text": "Catch you next time.", "label": 0}
+{"text": "Talk to you soon.", "label": 0}
+{"text": "Take care!", "label": 0}
+{"text": "Have a good one!", "label": 0}
+{"text": "Alright, I'm signing off, bye.", "label": 0}
+{"text": "Thanks again, goodnight.", "label": 0}
+{"text": "Appreciate your time, bye.", "label": 0}
+{"text": "Cheers, see ya.", "label": 0}
+{"text": "Thank you, that's all for now.", "label": 0}
+{"text": "Bye bye!", "label": 0}
+{"text": "I'm done for today, thanks.", "label": 0}
+{"text": "That's it for now, thank you!", "label": 0}
+{"text": "Thanks for being patient with me.", "label": 0}
+{"text": "I appreciate your patience, thanks.", "label": 0}
+{"text": "Thank you kindly.", "label": 0}
+{"text": "Much obliged!", "label": 0}
+{"text": "Thanks a ton.", "label": 0}
+{"text": "Alright, thanks for everything.", "label": 0}
+{"text": "Farewell for now.", "label": 0}
+{"text": "See you around.", "label": 0}
+{"text": "Thanks, take it easy.", "label": 0}
+{"text": "Tell me a joke.", "label": 0}
+{"text": "Can you make me laugh?", "label": 0}
+{"text": "Got any good puns?", "label": 0}
+{"text": "Tell me a knock-knock joke.", "label": 0}
+{"text": "What's the funniest thing you know?", "label": 0}
+{"text": "Do you know any dad jokes?", "label": 0}
+{"text": "Make up a silly joke for me.", "label": 0}
+{"text": "Tell me a joke about cats.", "label": 0}
+{"text": "Tell me a joke about programmers.", "label": 0}
+{"text": "Give me a one-liner joke.", "label": 0}
+{"text": "Can you roast me a little?", "label": 0}
+{"text": "What's a good pun about coffee?", "label": 0}
+{"text": "Tell me something witty.", "label": 0}
+{"text": "Tell me a joke about robots dreaming of electric sheep.", "label": 0}
+{"text": "Give me a pun about pizza.", "label": 0}
+{"text": "What's a joke about mathematicians?", "label": 0}
+{"text": "Tell me a joke about the weather.", "label": 0}
+{"text": "Give me your best dad joke.", "label": 0}
+{"text": "Can you tell a joke about AI?", "label": 0}
+{"text": "What's a funny riddle you know?", "label": 0}
+{"text": "Tell me a light bulb joke.", "label": 0}
+{"text": "Do you have a joke about dogs?", "label": 0}
+{"text": "Give me a joke to share with my friends.", "label": 0}
+{"text": "Tell me something absurd and funny.", "label": 0}
+{"text": "What's a clean joke I can tell at work?", "label": 0}
+{"text": "Give me a pun about books.", "label": 0}
+{"text": "Can you write a silly limerick?", "label": 0}
+{"text": "Tell me a joke about the ocean.", "label": 0}
+{"text": "What's a joke involving numbers?", "label": 0}
+{"text": "Give me a joke about Mondays.", "label": 0}
+{"text": "What's the capital of France?", "label": 0}
+{"text": "Who wrote Romeo and Juliet?", "label": 0}
+{"text": "How far is the moon from Earth?", "label": 0}
+{"text": "What's the tallest mountain in the world?", "label": 0}
+{"text": "When did World War II end?", "label": 0}
+{"text": "What's the chemical symbol for gold?", "label": 0}
+{"text": "How many continents are there?", "label": 0}
+{"text": "What's the largest ocean on Earth?", "label": 0}
+{"text": "Who painted the Mona Lisa?", "label": 0}
+{"text": "What's the speed of light?", "label": 0}
+{"text": "How many bones are in the human body?", "label": 0}
+{"text": "What's the boiling point of water in Celsius?", "label": 0}
+{"text": "Who was the first person to walk on the moon?", "label": 0}
+{"text": "What's the longest river in the world?", "label": 0}
+{"text": "What causes the seasons to change?", "label": 0}
+{"text": "What's the smallest planet in our solar system?", "label": 0}
+{"text": "Who invented the telephone?", "label": 0}
+{"text": "What language is spoken in Brazil?", "label": 0}
+{"text": "What's the currency used in Japan?", "label": 0}
+{"text": "How many strings does a violin have?", "label": 0}
+{"text": "What's the national animal of Australia?", "label": 0}
+{"text": "Who discovered penicillin?", "label": 0}
+{"text": "What's the largest desert in the world?", "label": 0}
+{"text": "How does photosynthesis work?", "label": 0}
+{"text": "What's the difference between a virus and a bacteria?", "label": 0}
+{"text": "What year did the Berlin Wall fall?", "label": 0}
+{"text": "Who is credited with inventing the light bulb?", "label": 0}
+{"text": "What's the freezing point of water in Fahrenheit?", "label": 0}
+{"text": "What's the tallest building in the world?", "label": 0}
+{"text": "How many planets are in our solar system?", "label": 0}
+{"text": "What's the deepest point in the ocean?", "label": 0}
+{"text": "Who wrote the novel 1984?", "label": 0}
+{"text": "What's the population of the United States roughly?", "label": 0}
+{"text": "What's the largest country by land area?", "label": 0}
+{"text": "How do volcanoes form?", "label": 0}
+{"text": "What's the difference between weather and climate?", "label": 0}
+{"text": "Who founded Microsoft?", "label": 0}
+{"text": "What's the main ingredient in guacamole?", "label": 0}
+{"text": "What's the capital of Australia?", "label": 0}
+{"text": "Who composed the Ninth Symphony?", "label": 0}
+{"text": "What's the largest mammal on Earth?", "label": 0}
+{"text": "How long does it take Earth to orbit the sun?", "label": 0}
+{"text": "What's the hardest natural substance on Earth?", "label": 0}
+{"text": "What's the tallest waterfall in the world?", "label": 0}
+{"text": "Who was the 16th president of the United States?", "label": 0}
+{"text": "What's the main gas in Earth's atmosphere?", "label": 0}
+{"text": "What's the smallest country in the world?", "label": 0}
+{"text": "How many teeth does an adult human have?", "label": 0}
+{"text": "What's the fastest land animal?", "label": 0}
+{"text": "Who wrote Pride and Prejudice?", "label": 0}
+{"text": "What's the significance of the number pi?", "label": 0}
+{"text": "What's the difference between a comet and an asteroid?", "label": 0}
+{"text": "How do bees make honey?", "label": 0}
+{"text": "What's the largest island in the world?", "label": 0}
+{"text": "Who painted Starry Night?", "label": 0}
+{"text": "What's the longest wall in the world?", "label": 0}
+{"text": "What's the main export of Saudi Arabia?", "label": 0}
+{"text": "What's the difference between AC and DC electricity?", "label": 0}
+{"text": "How many time zones does Russia span?", "label": 0}
+{"text": "What's the tallest animal on Earth?", "label": 0}
+{"text": "Who was Cleopatra?", "label": 0}
+{"text": "What's the driest place on Earth?", "label": 0}
+{"text": "How does a rainbow form?", "label": 0}
+{"text": "What's the origin of the Olympic Games?", "label": 0}
+{"text": "Who invented the printing press?", "label": 0}
+{"text": "What's the largest coral reef system in the world?", "label": 0}
+{"text": "What's the difference between a crocodile and an alligator?", "label": 0}
+{"text": "How many moons does Jupiter have?", "label": 0}
+{"text": "What's the coldest place on Earth?", "label": 0}
+{"text": "Who wrote the Odyssey?", "label": 0}
+{"text": "What's 47 times 36?", "label": 0}
+{"text": "Can you solve for x: 2x + 5 = 17?", "label": 0}
+{"text": "What's the square root of 144?", "label": 0}
+{"text": "How do you calculate the area of a circle?", "label": 0}
+{"text": "What's 15% of 200?", "label": 0}
+{"text": "Can you explain the Pythagorean theorem?", "label": 0}
+{"text": "What's the derivative of x squared?", "label": 0}
+{"text": "How do I convert fractions to decimals?", "label": 0}
+{"text": "What's the sum of the first 10 natural numbers?", "label": 0}
+{"text": "Can you help me factor x squared minus 9?", "label": 0}
+{"text": "What's 123 divided by 7?", "label": 0}
+{"text": "How do you calculate compound interest?", "label": 0}
+{"text": "What's the value of pi to five decimal places?", "label": 0}
+{"text": "Can you explain what a prime number is?", "label": 0}
+{"text": "What's 2 to the power of 10?", "label": 0}
+{"text": "How do I find the least common multiple of 8 and 12?", "label": 0}
+{"text": "What's the formula for the volume of a sphere?", "label": 0}
+{"text": "Can you simplify the fraction 24/36?", "label": 0}
+{"text": "What's the difference between mean, median, and mode?", "label": 0}
+{"text": "How do I solve a system of two linear equations?", "label": 0}
+{"text": "What's 999 plus 1001?", "label": 0}
+{"text": "Can you explain the quadratic formula?", "label": 0}
+{"text": "What's the integral of 2x?", "label": 0}
+{"text": "How many degrees are in a triangle?", "label": 0}
+{"text": "What's a good way to memorize multiplication tables?", "label": 0}
+{"text": "Can you convert 5 miles to kilometers?", "label": 0}
+{"text": "What's 8 factorial?", "label": 0}
+{"text": "How do I calculate my BMI?", "label": 0}
+{"text": "What's the formula for simple interest?", "label": 0}
+{"text": "Can you explain standard deviation in simple terms?", "label": 0}
+{"text": "What's 3/4 plus 1/2?", "label": 0}
+{"text": "How do you find the hypotenuse of a right triangle?", "label": 0}
+{"text": "What's a Fibonacci sequence?", "label": 0}
+{"text": "Can you explain logarithms?", "label": 0}
+{"text": "What's 10 percent of 450?", "label": 0}
+{"text": "How do I calculate the circumference of a circle?", "label": 0}
+{"text": "What's the difference between permutations and combinations?", "label": 0}
+{"text": "Can you help me with long division?", "label": 0}
+{"text": "What's 2 raised to the negative 3?", "label": 0}
+{"text": "How do I convert Celsius to Fahrenheit?", "label": 0}
+{"text": "How do I reverse a string in Python?", "label": 0}
+{"text": "What's the difference between a list and a tuple in Python?", "label": 0}
+{"text": "Can you write a function to check if a number is prime?", "label": 0}
+{"text": "How do I sort an array in JavaScript?", "label": 0}
+{"text": "What's the difference between let, const, and var in JavaScript?", "label": 0}
+{"text": "Can you explain recursion with a simple example?", "label": 0}
+{"text": "How do I set up a virtual environment in Python?", "label": 0}
+{"text": "What's the difference between SQL and NoSQL databases?", "label": 0}
+{"text": "Can you write a bubble sort algorithm in Java?", "label": 0}
+{"text": "How do I create a REST API with Express.js?", "label": 0}
+{"text": "What's the difference between == and === in JavaScript?", "label": 0}
+{"text": "How do I handle exceptions in Python?", "label": 0}
+{"text": "Can you explain what a hash map is?", "label": 0}
+{"text": "What's the time complexity of binary search?", "label": 0}
+{"text": "How do I connect to a MySQL database using Python?", "label": 0}
+{"text": "What's the difference between synchronous and asynchronous code?", "label": 0}
+{"text": "Can you write a simple to-do list app in React from scratch?", "label": 0}
+{"text": "How do I use Git to revert a commit?", "label": 0}
+{"text": "What's a linked list and how does it work?", "label": 0}
+{"text": "How do I implement a stack using an array?", "label": 0}
+{"text": "Can you explain object-oriented programming principles?", "label": 0}
+{"text": "What's the difference between an interface and an abstract class?", "label": 0}
+{"text": "How do I set up Docker for a Node.js project?", "label": 0}
+{"text": "What's the difference between GET and POST HTTP methods?", "label": 0}
+{"text": "Can you write a Python script to scrape a webpage?", "label": 0}
+{"text": "How do I debug a segmentation fault in C?", "label": 0}
+{"text": "What's the difference between multithreading and multiprocessing?", "label": 0}
+{"text": "Can you explain how garbage collection works in Java?", "label": 0}
+{"text": "How do I write unit tests in Python using pytest?", "label": 0}
+{"text": "What's a closure in JavaScript?", "label": 0}
+{"text": "Can you help me write a regex to validate an email address?", "label": 0}
+{"text": "What's the difference between REST and GraphQL?", "label": 0}
+{"text": "How do I implement a binary search tree in Python?", "label": 0}
+{"text": "What's the difference between a compiler and an interpreter?", "label": 0}
+{"text": "Can you explain how CSS flexbox works?", "label": 0}
+{"text": "How do I set up authentication with JWT?", "label": 0}
+{"text": "What's the difference between TCP and UDP?", "label": 0}
+{"text": "Can you write a merge sort function in C++?", "label": 0}
+{"text": "How do I use async/await in JavaScript?", "label": 0}
+{"text": "What's the difference between a process and a thread?", "label": 0}
+{"text": "Can you explain how a hash table handles collisions?", "label": 0}
+{"text": "How do I install Node.js on Windows?", "label": 0}
+{"text": "What's the difference between npm and yarn?", "label": 0}
+{"text": "Can you write a script to rename multiple files in a folder?", "label": 0}
+{"text": "How do I use list comprehensions in Python?", "label": 0}
+{"text": "What's the difference between shallow copy and deep copy?", "label": 0}
+{"text": "Can you explain the SOLID principles in software design?", "label": 0}
+{"text": "How do I set up environment variables in a .env file?", "label": 0}
+{"text": "What's a race condition in concurrent programming?", "label": 0}
+{"text": "Can you write a simple calculator app in Python?", "label": 0}
+{"text": "How do I use pandas to read a CSV file?", "label": 0}
+{"text": "What's the difference between an array and a linked list?", "label": 0}
+{"text": "Can you explain what Big O notation means?", "label": 0}
+{"text": "How do I create a Docker container from a Dockerfile?", "label": 0}
+{"text": "What's the difference between HTTP and HTTPS?", "label": 0}
+{"text": "Can you write a function to check for palindromes?", "label": 0}
+{"text": "How do I use Redux for state management in React?", "label": 0}
+{"text": "What's the difference between var and let scoping?", "label": 0}
+{"text": "Can you explain how a load balancer works?", "label": 0}
+{"text": "How do I implement pagination in a REST API?", "label": 0}
+{"text": "What's the difference between machine learning and deep learning?", "label": 0}
+{"text": "How does a neural network work?", "label": 0}
+{"text": "What's the Turing test?", "label": 0}
+{"text": "Can you explain what a large language model is?", "label": 0}
+{"text": "What's the difference between supervised and unsupervised learning?", "label": 0}
+{"text": "How does reinforcement learning work?", "label": 0}
+{"text": "What's overfitting in machine learning?", "label": 0}
+{"text": "Can you explain what a transformer model is?", "label": 0}
+{"text": "What's the difference between AI and AGI?", "label": 0}
+{"text": "How do chatbots generate responses?", "label": 0}
+{"text": "What's a convolutional neural network used for?", "label": 0}
+{"text": "Can you explain gradient descent?", "label": 0}
+{"text": "What's the difference between AI and robotics?", "label": 0}
+{"text": "How does natural language processing work?", "label": 0}
+{"text": "What's a generative adversarial network?", "label": 0}
+{"text": "Can you explain what tokenization means in NLP?", "label": 0}
+{"text": "What's the difference between AI ethics and AI safety in general?", "label": 0}
+{"text": "How do recommendation systems work?", "label": 0}
+{"text": "What's the difference between narrow AI and general AI?", "label": 0}
+{"text": "Can you explain what an embedding is in machine learning?", "label": 0}
+{"text": "Can you write a short poem about the ocean?", "label": 0}
+{"text": "Write a birthday message for my friend.", "label": 0}
+{"text": "Can you draft a resignation letter for me?", "label": 0}
+{"text": "Write a haiku about autumn leaves.", "label": 0}
+{"text": "Can you help me write a cover letter for a marketing job?", "label": 0}
+{"text": "Write a short story about a dragon who is afraid of fire.", "label": 0}
+{"text": "Can you draft an email inviting my team to a party?", "label": 0}
+{"text": "Write a poem about friendship.", "label": 0}
+{"text": "Can you help me write a wedding speech?", "label": 0}
+{"text": "Write a short bio for my LinkedIn profile.", "label": 0}
+{"text": "Can you draft a thank-you note for a job interview?", "label": 0}
+{"text": "Write a limerick about a cat that loves pizza.", "label": 0}
+{"text": "Can you help me write a product description for a candle?", "label": 0}
+{"text": "Write a motivational quote for my gym.", "label": 0}
+{"text": "Can you draft an apology email to a client?", "label": 0}
+{"text": "Write a short story about time travel.", "label": 0}
+{"text": "Can you help me write a toast for a retirement party?", "label": 0}
+{"text": "Write a poem about the changing seasons.", "label": 0}
+{"text": "Can you draft a follow-up email after a job interview?", "label": 0}
+{"text": "Write a fun bio for a dating profile.", "label": 0}
+{"text": "Can you help me write lyrics for a song about summer?", "label": 0}
+{"text": "Write a short horror story set in an abandoned house.", "label": 0}
+{"text": "Can you draft a complaint letter to a landlord?", "label": 0}
+{"text": "Write a eulogy for a beloved pet.", "label": 0}
+{"text": "Can you help me write an out-of-office email reply?", "label": 0}
+{"text": "Write a children's bedtime story about a brave mouse.", "label": 0}
+{"text": "Can you draft a recommendation letter for a student?", "label": 0}
+{"text": "Write a persuasive essay about recycling.", "label": 0}
+{"text": "Can you help me write a proposal for a new gym membership plan?", "label": 0}
+{"text": "Write a haiku about rain.", "label": 0}
+{"text": "What's a good recipe for chocolate chip cookies?", "label": 0}
+{"text": "Can you recommend a good book to read this summer?", "label": 0}
+{"text": "What are some tips for improving my sleep?", "label": 0}
+{"text": "Can you suggest a workout routine for beginners?", "label": 0}
+{"text": "What are some good icebreaker games for a party?", "label": 0}
+{"text": "Can you recommend a movie for a rainy day?", "label": 0}
+{"text": "What's a healthy breakfast idea?", "label": 0}
+{"text": "Can you suggest some houseplants that are hard to kill?", "label": 0}
+{"text": "What are some tips for public speaking?", "label": 0}
+{"text": "Can you recommend a podcast about history?", "label": 0}
+{"text": "What's a good way to save money each month?", "label": 0}
+{"text": "Can you suggest names for a new puppy?", "label": 0}
+{"text": "What are some tips for reducing screen time?", "label": 0}
+{"text": "Can you recommend a destination for a weekend getaway?", "label": 0}
+{"text": "What's a good stretching routine after running?", "label": 0}
+{"text": "Can you suggest some board games for a family game night?", "label": 0}
+{"text": "What are some tips for staying motivated at work?", "label": 0}
+{"text": "Can you recommend a skincare routine for dry skin?", "label": 0}
+{"text": "What's a good way to start journaling?", "label": 0}
+{"text": "Can you suggest some easy meal prep ideas?", "label": 0}
+{"text": "How do I plan a surprise party for my partner?", "label": 0}
+{"text": "What are some tips for learning a new language quickly?", "label": 0}
+{"text": "Can you recommend some classic novels to read?", "label": 0}
+{"text": "What's the best way to organize a small closet?", "label": 0}
+{"text": "Can you suggest hobbies for someone who loves the outdoors?", "label": 0}
+{"text": "What are some tips for reducing stress before an exam?", "label": 0}
+{"text": "Can you recommend a good beginner's guitar?", "label": 0}
+{"text": "What's a fun theme for a kids' birthday party?", "label": 0}
+{"text": "Can you suggest some low-maintenance houseplants?", "label": 0}
+{"text": "What are good tips for staying focused while studying?", "label": 0}
+{"text": "Do you have a favorite color?", "label": 0}
+{"text": "What's your opinion on pineapple on pizza?", "label": 0}
+{"text": "If you could travel anywhere, where would you go?", "label": 0}
+{"text": "Do you ever get tired of answering questions?", "label": 0}
+{"text": "What's your favorite season?", "label": 0}
+{"text": "Do you have a favorite movie genre?", "label": 0}
+{"text": "What do you think about cats versus dogs as pets?", "label": 0}
+{"text": "If you could learn any skill instantly, what would it be?", "label": 0}
+{"text": "What's your take on early mornings versus late nights?", "label": 0}
+{"text": "Do you prefer tea or coffee?", "label": 0}
+{"text": "What's the meaning of life, in your opinion?", "label": 0}
+{"text": "Do you think robots will take over the world someday?", "label": 0}
+{"text": "What's your favorite type of music?", "label": 0}
+{"text": "If you had a superpower, what would it be?", "label": 0}
+{"text": "Do you enjoy answering random trivia?", "label": 0}
+{"text": "What's the best way to spend a lazy Sunday?", "label": 0}
+{"text": "Do you think time travel will ever be possible?", "label": 0}
+{"text": "What's your favorite fictional character?", "label": 0}
+{"text": "If you could have dinner with anyone, who would it be?", "label": 0}
+{"text": "What's the most interesting fact you know?", "label": 0}
+{"text": "Can you explain what an API is?", "label": 0}
+{"text": "How do I center a div in CSS?", "label": 0}
+{"text": "What's the difference between frontend and backend development?", "label": 0}
+{"text": "Can you explain what version control is?", "label": 0}
+{"text": "How do I write a for loop in Python?", "label": 0}
+{"text": "What's a boolean value in programming?", "label": 0}
+{"text": "Can you explain what JSON is used for?", "label": 0}
+{"text": "How do I install a package using pip?", "label": 0}
+{"text": "What's the difference between == and .equals() in Java?", "label": 0}
+{"text": "Can you explain what an array index is?", "label": 0}
+{"text": "What's the value of e (Euler's number)?", "label": 0}
+{"text": "Can you explain what a matrix is in math?", "label": 0}
+{"text": "How do you calculate probability of two independent events?", "label": 0}
+{"text": "What's a rational number versus an irrational number?", "label": 0}
+{"text": "Can you explain what modular arithmetic is?", "label": 0}
+{"text": "How do you find the greatest common divisor of two numbers?", "label": 0}
+{"text": "What's the binomial theorem?", "label": 0}
+{"text": "Can you explain vectors in simple terms?", "label": 0}
+{"text": "How do you calculate the slope of a line?", "label": 0}
+{"text": "What's a complex number?", "label": 0}
+{"text": "What's the difference between ChatGPT and other AI models in general?", "label": 0}
+{"text": "How do image generation models work?", "label": 0}
+{"text": "What's prompt engineering?", "label": 0}
+{"text": "Can you explain what fine-tuning a model means?", "label": 0}
+{"text": "What's the difference between an AI agent and a chatbot?", "label": 0}
+{"text": "How do speech recognition systems work?", "label": 0}
+{"text": "What's a knowledge graph?", "label": 0}
+{"text": "Can you explain what hallucination means in AI models?", "label": 0}
+{"text": "What's the difference between zero-shot and few-shot learning?", "label": 0}
+{"text": "How do self-driving cars use AI?", "label": 0}
+{"text": "Can you write a product review template for an online store?", "label": 0}
+{"text": "Write a short poem about friendship lost.", "label": 0}
+{"text": "Can you draft a newsletter intro for a coffee shop?", "label": 0}
+{"text": "Write a fun Instagram caption for a beach photo.", "label": 0}
+{"text": "Can you help me write a speech for my sister's wedding?", "label": 0}
+{"text": "Write a short mystery story set on a train.", "label": 0}
+{"text": "Can you draft a request for a raise email to my manager?", "label": 0}
+{"text": "Write a poem about the stars.", "label": 0}
+{"text": "Can you help me write a birthday toast for my dad?", "label": 0}
+{"text": "Write a short sci-fi story about a colony on Mars.", "label": 0}
+{"text": "What's a good gift idea for a coworker's birthday?", "label": 0}
+{"text": "Can you suggest a fun weekend activity for kids?", "label": 0}
+{"text": "What's a good way to declutter my home?", "label": 0}
+{"text": "Can you recommend some classic board games?", "label": 0}
+{"text": "What's a good way to start meal planning for the week?", "label": 0}
+{"text": "Can you suggest exercises for lower back pain relief?", "label": 0}
+{"text": "What's a good way to build a morning routine?", "label": 0}
+{"text": "Can you recommend some travel essentials for a long flight?", "label": 0}
+{"text": "What's a good way to learn to cook Italian food?", "label": 0}
+{"text": "Can you suggest some tips for a successful garage sale?", "label": 0}
+{"text": "What's the tallest tree species in the world?", "label": 0}
+{"text": "Who was the first woman to win a Nobel Prize?", "label": 0}
+{"text": "What's the largest species of shark?", "label": 0}
+{"text": "How many hearts does an octopus have?", "label": 0}
+{"text": "What's the oldest known civilization?", "label": 0}
+{"text": "Who wrote The Great Gatsby?", "label": 0}
+{"text": "What's the largest volcano in the solar system?", "label": 0}
+{"text": "How many chromosomes do humans have?", "label": 0}
+{"text": "What's the fastest bird in the world?", "label": 0}
+{"text": "Who was the first emperor of Rome?", "label": 0}
+{"text": "What's 7 to the power of 3?", "label": 0}
+{"text": "Can you explain the concept of infinity?", "label": 0}
+{"text": "What's the formula for the area of a trapezoid?", "label": 0}
+{"text": "How do you calculate percentage change?", "label": 0}
+{"text": "What's a perfect square?", "label": 0}
+{"text": "Can you explain what a matrix determinant is?", "label": 0}
+{"text": "What's the sum of interior angles in a hexagon?", "label": 0}
+{"text": "How do you find the median of a data set?", "label": 0}
+{"text": "What's the difference between a scalar and a vector?", "label": 0}
+{"text": "Can you explain exponential growth in simple terms?", "label": 0}
+{"text": "How do I use a dictionary in Python?", "label": 0}
+{"text": "What's the difference between a class and an object?", "label": 0}
+{"text": "Can you explain what middleware is in web development?", "label": 0}
+{"text": "How do I set up a basic Flask app?", "label": 0}
+{"text": "What's the difference between local and global variables?", "label": 0}
+{"text": "Can you explain what a callback function is?", "label": 0}
+{"text": "How do I use try-except blocks in Python?", "label": 0}
+{"text": "What's the difference between an array and a set?", "label": 0}
+{"text": "Can you explain how CSS grid works?", "label": 0}
+{"text": "How do I create a simple login form validation in JavaScript?", "label": 0}
+{"text": "What's your favorite fun fact about space?", "label": 0}
+{"text": "Do you like solving puzzles?", "label": 0}
+{"text": "What's a good way to unwind after a long day?", "label": 0}
+{"text": "Do you think AI will change how people work in the future in general?", "label": 0}
+{"text": "What's your favorite kind of weather?", "label": 0}
+{"text": "Do you have a favorite historical figure?", "label": 0}
+{"text": "What's something you find fascinating about the universe?", "label": 0}
+{"text": "Do you enjoy wordplay and riddles?", "label": 0}
+{"text": "What's your take on morning routines versus night owl habits?", "label": 0}
+{"text": "Do you think reading books is still important today?", "label": 0}
+{"text": "Can you help me brainstorm names for a small bakery?", "label": 0}
+{"text": "Write a short thank-you speech for volunteers.", "label": 0}
+{"text": "Can you suggest some fun trivia questions for a pub quiz?", "label": 0}
+{"text": "Write a short poem about a rainy city night.", "label": 0}
+{"text": "Can you help me plan a road trip itinerary for California?", "label": 0}
+{"text": "Write a funny tweet about Mondays.", "label": 0}
+{"text": "Can you suggest a caption for a graduation photo?", "label": 0}
+{"text": "Write a short love letter for an anniversary.", "label": 0}
+{"text": "Can you help me come up with a slogan for a lemonade stand?", "label": 0}
+{"text": "Write a poem about a quiet forest.", "label": 0}
+{"text": "What's the world's most spoken language?", "label": 0}
+{"text": "How many players are on a soccer team?", "label": 0}
+{"text": "What's the tallest man-made structure?", "label": 0}
+{"text": "Who invented the World Wide Web?", "label": 0}
+{"text": "What's the largest lake in the world?", "label": 0}
+{"text": "How many time zones are there in the world?", "label": 0}
+{"text": "What's the most populous city in the world?", "label": 0}
+{"text": "Who was the first female astronaut?", "label": 0}
+{"text": "What's the national sport of Japan?", "label": 0}
+{"text": "How many bones are in a shark's body?", "label": 0}
+{"text": "Can you recommend a good strategy for learning to code from scratch?", "label": 0}
+{"text": "What's a fun fact about honeybees?", "label": 0}
+{"text": "Can you suggest a name for my new blog about hiking?", "label": 0}
+{"text": "What's the difference between a hurricane and a typhoon?", "label": 0}
+{"text": "Can you help me write a grocery list for a week of vegetarian meals?", "label": 0}
+{"text": "What's a good stretch routine before bed?", "label": 0}
+{"text": "Can you recommend some tips for better time management?", "label": 0}
+{"text": "What's the difference between introverts and extroverts, generally speaking?", "label": 0}
+{"text": "Can you suggest a fun DIY project for a rainy weekend?", "label": 0}
+{"text": "What's a good way to start meditating as a beginner?", "label": 0}
+{"text": "What is the NIST AI Risk Management Framework?", "label": 1}
+{"text": "Summarize the executive summary of the AI RMF.", "label": 1}
+{"text": "What is the goal of the AI RMF according to NIST?", "label": 1}
+{"text": "Why was the AI RMF created?", "label": 1}
+{"text": "What law directed the development of the AI RMF?", "label": 1}
+{"text": "Is the AI RMF mandatory or voluntary?", "label": 1}
+{"text": "What does NIST mean by \"trustworthy AI\"?", "label": 1}
+{"text": "How does the AI RMF define an AI system?", "label": 1}
+{"text": "What are AI actors according to the document?", "label": 1}
+{"text": "What is the overall structure of the AI RMF document?", "label": 1}
+{"text": "How does the AI RMF define risk?", "label": 1}
+{"text": "What are the different types of harm described in Figure 1?", "label": 1}
+{"text": "What's the difference between harm to people, harm to an organization, and harm to an ecosystem?", "label": 1}
+{"text": "How can AI risks affect individuals versus society?", "label": 1}
+{"text": "What examples of harm to people does the document give?", "label": 1}
+{"text": "What examples of harm to an ecosystem are mentioned?", "label": 1}
+{"text": "How does the framework describe positive versus negative impacts of AI?", "label": 1}
+{"text": "What does \"risk management\" mean according to ISO 31000 as cited in the document?", "label": 1}
+{"text": "Why is it challenging to assess negative impacts of AI systems?", "label": 1}
+{"text": "What assumptions do humans make about AI systems that create risk?", "label": 1}
+{"text": "What are the main challenges in measuring AI risk?", "label": 1}
+{"text": "How do third-party software and data complicate risk measurement?", "label": 1}
+{"text": "What does the document say about tracking emergent risks?", "label": 1}
+{"text": "What issues exist with the availability of reliable AI risk metrics?", "label": 1}
+{"text": "How can measuring risk differ at different stages of the AI lifecycle?", "label": 1}
+{"text": "What's the difference between lab-measured risk and real-world risk?", "label": 1}
+{"text": "What does \"inscrutability\" mean in the context of AI risk measurement?", "label": 1}
+{"text": "Why is a human baseline important for AI risk management?", "label": 1}
+{"text": "What risk measurement pitfalls does NIST warn about?", "label": 1}
+{"text": "How can risk metrics reflect factors unrelated to the underlying impact?", "label": 1}
+{"text": "How does the AI RMF define risk tolerance?", "label": 1}
+{"text": "What factors influence an organization's risk tolerance?", "label": 1}
+{"text": "Does the AI RMF prescribe specific risk tolerance levels?", "label": 1}
+{"text": "How can legal or regulatory requirements affect risk tolerance?", "label": 1}
+{"text": "What should organizations do if there's no established guidance on risk tolerance?", "label": 1}
+{"text": "Can risk tolerance change over time according to the document?", "label": 1}
+{"text": "Why might different organizations have different risk tolerances?", "label": 1}
+{"text": "What role does organizational priority play in risk tolerance?", "label": 1}
+{"text": "How does risk tolerance relate to cost-benefit tradeoffs?", "label": 1}
+{"text": "What happens if risk tolerance challenges remain unresolved?", "label": 1}
+{"text": "How should organizations prioritize AI risks?", "label": 1}
+{"text": "What happens when an AI system presents unacceptable risk levels?", "label": 1}
+{"text": "What's the difference in prioritization for human-facing versus non-human-facing AI systems?", "label": 1}
+{"text": "What is residual risk according to the AI RMF?", "label": 1}
+{"text": "Why can't organizations eliminate all AI risk?", "label": 1}
+{"text": "What resources should be allocated based on risk level?", "label": 1}
+{"text": "What triggers development and deployment to cease according to the document?", "label": 1}
+{"text": "How does customization of an AI system affect risk prioritization?", "label": 1}
+{"text": "What does the document say about documenting residual risk?", "label": 1}
+{"text": "Why is risk triage important for organizations?", "label": 1}
+{"text": "How should AI risk management be integrated into broader enterprise risk management?", "label": 1}
+{"text": "What overlapping risks exist between AI and traditional software development?", "label": 1}
+{"text": "Why do organizations developing AI systems often lack information about how they'll be used?", "label": 1}
+{"text": "What accountability mechanisms does the AI RMF recommend organizations establish?", "label": 1}
+{"text": "How can small and medium organizations face different challenges with AI risk management?", "label": 1}
+{"text": "What role does organizational culture play in effective risk management?", "label": 1}
+{"text": "What does the document say about cybersecurity and privacy risks overlapping with AI risk?", "label": 1}
+{"text": "What's needed for effective risk management beyond just using the AI RMF?", "label": 1}
+{"text": "How does the framework address energy and environmental implications of AI?", "label": 1}
+{"text": "What organizational commitment is needed for effective AI risk management?", "label": 1}
+{"text": "Who is the intended audience of the AI RMF?", "label": 1}
+{"text": "What are the key dimensions of an AI system according to Figure 2?", "label": 1}
+{"text": "What does the People and Planet dimension represent in the AI lifecycle diagram?", "label": 1}
+{"text": "How did NIST modify the OECD framework for AI system classification?", "label": 1}
+{"text": "What are the four AI system dimensions shown in Figure 2?", "label": 1}
+{"text": "What lifecycle stages are shown in the outer circle of Figure 2?", "label": 1}
+{"text": "Who are considered the primary AI RMF audience?", "label": 1}
+{"text": "What roles can external AI actors like advocacy groups play?", "label": 1}
+{"text": "Why is diversity among AI actors important according to the framework?", "label": 1}
+{"text": "How does the document describe collective responsibility among AI actors?", "label": 1}
+{"text": "What lifecycle stages are shown in Figure 3?", "label": 1}
+{"text": "What TEVV activities happen during the Plan and Design stage?", "label": 1}
+{"text": "Who are the representative AI actors during the Collect and Process Data stage?", "label": 1}
+{"text": "What happens during the Build and Use Model stage?", "label": 1}
+{"text": "Who verifies and validates AI models according to Figure 3?", "label": 1}
+{"text": "What activities happen during the Deploy and Use stage?", "label": 1}
+{"text": "Who operates and monitors AI systems after deployment?", "label": 1}
+{"text": "What does TEVV stand for and why does it matter throughout the lifecycle?", "label": 1}
+{"text": "Why are AI actors who build models separated from those who verify them?", "label": 1}
+{"text": "What actors are involved in the Use or Impacted By stage?", "label": 1}
+{"text": "What are the seven characteristics of trustworthy AI according to NIST?", "label": 1}
+{"text": "Why is Valid and Reliable considered the base characteristic in Figure 4?", "label": 1}
+{"text": "Why is Accountable and Transparent shown as a vertical box in Figure 4?", "label": 1}
+{"text": "What tradeoffs exist between trustworthiness characteristics?", "label": 1}
+{"text": "Can an AI system be trustworthy if it excels in only one characteristic?", "label": 1}
+{"text": "How does human judgment factor into trustworthiness metrics?", "label": 1}
+{"text": "What example tradeoff does the document give between interpretability and privacy?", "label": 1}
+{"text": "Why is trustworthiness described as a social concept?", "label": 1}
+{"text": "How does an AI actor's role affect their perception of trustworthiness characteristics?", "label": 1}
+{"text": "What happens when trustworthiness characteristics are neglected?", "label": 1}
+{"text": "How does the AI RMF define validity for AI systems?", "label": 1}
+{"text": "What's the difference between accuracy and robustness?", "label": 1}
+{"text": "How is reliability defined in the document?", "label": 1}
+{"text": "What ISO standard is cited for the definition of validation?", "label": 1}
+{"text": "Why should accuracy measurements be paired with realistic test sets?", "label": 1}
+{"text": "What does robustness mean for an AI system operating outside expected uses?", "label": 1}
+{"text": "How is accuracy formally defined in the framework?", "label": 1}
+{"text": "What role does ongoing testing play in maintaining validity?", "label": 1}
+{"text": "What can happen if an AI system is poorly generalized beyond its training data?", "label": 1}
+{"text": "Why might accuracy and robustness be in tension with each other?", "label": 1}
+{"text": "How does the AI RMF define a safe AI system?", "label": 1}
+{"text": "What practices improve the safe operation of AI systems?", "label": 1}
+{"text": "What kind of safety risks require the most urgent prioritization?", "label": 1}
+{"text": "What role does planning and design play in AI safety?", "label": 1}
+{"text": "What practical approaches does the document suggest for AI safety?", "label": 1}
+{"text": "How should AI safety risk management relate to sectors like transportation and healthcare?", "label": 1}
+{"text": "What does human intervention have to do with AI safety?", "label": 1}
+{"text": "What conditions can render an AI system dangerous?", "label": 1}
+{"text": "How does real-time monitoring contribute to safety?", "label": 1}
+{"text": "What's the relationship between simulation testing and safety?", "label": 1}
+{"text": "How does the AI RMF define resilience for AI systems?", "label": 1}
+{"text": "What's the difference between security and resilience?", "label": 1}
+{"text": "What common security concerns are mentioned for AI systems?", "label": 1}
+{"text": "What does data poisoning mean in the context of AI security?", "label": 1}
+{"text": "How does the AI RMF relate to the NIST Cybersecurity Framework?", "label": 1}
+{"text": "What does it mean for an AI system to maintain confidentiality, integrity, and availability?", "label": 1}
+{"text": "What is model exfiltration and why is it a security concern?", "label": 1}
+{"text": "How does resilience relate to robustness according to the document?", "label": 1}
+{"text": "What protocols does security encompass beyond just resilience?", "label": 1}
+{"text": "What are adversarial examples in the context of AI security?", "label": 1}
+{"text": "How does the document define transparency for AI systems?", "label": 1}
+{"text": "Why does accountability presuppose transparency?", "label": 1}
+{"text": "What does meaningful transparency provide according to the framework?", "label": 1}
+{"text": "How does the scope of accountability span the AI lifecycle?", "label": 1}
+{"text": "Why should transparency and accountability practices scale with consequences?", "label": 1}
+{"text": "What role does data provenance play in transparency and accountability?", "label": 1}
+{"text": "How does the framework address intellectual property in relation to training data?", "label": 1}
+{"text": "Why is a transparent system not necessarily accurate or fair?", "label": 1}
+{"text": "What resources are needed to implement transparency measures?", "label": 1}
+{"text": "How should organizations notify users of adverse AI outcomes?", "label": 1}
+{"text": "What's the difference between explainability and interpretability?", "label": 1}
+{"text": "How do explainability and interpretability help end users?", "label": 1}
+{"text": "What questions does transparency, explainability, and interpretability each answer?", "label": 1}
+{"text": "How can explainable systems be more easily debugged and monitored?", "label": 1}
+{"text": "What assumption underlies the need for explainability according to the document?", "label": 1}
+{"text": "What resources does the document reference for explainable AI principles?", "label": 1}
+{"text": "How should explanations be tailored to different users?", "label": 1}
+{"text": "Why does interpretability matter for AI system outputs?", "label": 1}
+{"text": "What's an example of how explainability supports governance?", "label": 1}
+{"text": "How are explainability and interpretability distinct from transparency?", "label": 1}
+{"text": "How does the AI RMF define privacy?", "label": 1}
+{"text": "What privacy values should guide AI system design?", "label": 1}
+{"text": "What are privacy-enhancing technologies according to the document?", "label": 1}
+{"text": "How can privacy-related risks influence security and bias?", "label": 1}
+{"text": "What tradeoff exists between privacy-enhancing techniques and accuracy?", "label": 1}
+{"text": "How can AI systems create new risks to privacy?", "label": 1}
+{"text": "What data minimizing methods does the document mention?", "label": 1}
+{"text": "What NIST resource is referenced for privacy risk management?", "label": 1}
+{"text": "How does de-identification support privacy-enhanced AI?", "label": 1}
+{"text": "Why can inference pose a privacy risk in AI systems?", "label": 1}
+{"text": "How does the AI RMF define fairness in AI?", "label": 1}
+{"text": "What are the three major categories of AI bias identified by NIST?", "label": 1}
+{"text": "What is systemic bias according to the document?", "label": 1}
+{"text": "What is computational and statistical bias?", "label": 1}
+{"text": "What is human-cognitive bias?", "label": 1}
+{"text": "Why is fairness described as more than demographic balance?", "label": 1}
+{"text": "Can a system with mitigated bias still be considered unfair? Why?", "label": 1}
+{"text": "How can bias be present without prejudice or intent?", "label": 1}
+{"text": "What NIST publication is referenced for more detail on bias?", "label": 1}
+{"text": "How does bias relate to transparency according to the framework?", "label": 1}
+{"text": "How does NIST plan to evaluate the effectiveness of the AI RMF?", "label": 1}
+{"text": "What benefits are Framework users expected to see?", "label": 1}
+{"text": "What does the document say about measuring bottom-line improvements in trustworthiness?", "label": 1}
+{"text": "How will NIST work with the community on evaluating the framework?", "label": 1}
+{"text": "What organizational culture changes result from adopting the AI RMF?", "label": 1}
+{"text": "How does the AI RMF improve go/no-go deployment decisions?", "label": 1}
+{"text": "What does the framework say about information sharing across organizations?", "label": 1}
+{"text": "How does the AI RMF enhance TEVV capacity?", "label": 1}
+{"text": "What outcomes are documented as a result of using the framework?", "label": 1}
+{"text": "How often should organizations evaluate whether the AI RMF has improved their risk management?", "label": 1}
+{"text": "What are the four functions of the AI RMF Core?", "label": 1}
+{"text": "How is the Govern function described as cross-cutting?", "label": 1}
+{"text": "What's the difference between categories and subcategories in the AI RMF Core?", "label": 1}
+{"text": "In what order should organizations typically apply the four functions?", "label": 1}
+{"text": "Do the AI RMF functions need to be applied as an ordered checklist?", "label": 1}
+{"text": "What outcomes does the Map function focus on?", "label": 1}
+{"text": "What outcomes does the Measure function focus on?", "label": 1}
+{"text": "What outcomes does the Manage function focus on?", "label": 1}
+{"text": "What is the NIST AI RMF Playbook and how does it relate to the Core?", "label": 1}
+{"text": "Can organizations choose to apply only some of the Core's categories?", "label": 1}
+{"text": "What is the purpose of the Govern function?", "label": 1}
+{"text": "What are the main categories under Govern in Table 1?", "label": 1}
+{"text": "What does Govern 1 focus on?", "label": 1}
+{"text": "What does Govern 2 address regarding accountability structures?", "label": 1}
+{"text": "How does Govern 3 address workforce diversity and inclusion?", "label": 1}
+{"text": "What does Govern 4 say about organizational culture and AI risk?", "label": 1}
+{"text": "What does Govern 5 cover regarding engagement with AI actors?", "label": 1}
+{"text": "What does Govern 6 address about third-party risks?", "label": 1}
+{"text": "What subcategories exist under Govern 1 regarding legal and regulatory requirements?", "label": 1}
+{"text": "How does Govern relate to decommissioning AI systems?", "label": 1}
+{"text": "What is the purpose of the Map function?", "label": 1}
+{"text": "What are the main categories under Map in Table 2?", "label": 1}
+{"text": "What does Map 1 focus on regarding establishing context?", "label": 1}
+{"text": "What does Map 2 address about categorizing AI systems?", "label": 1}
+{"text": "What does Map 3 cover regarding AI capabilities and benchmarks?", "label": 1}
+{"text": "What does Map 4 address about third-party components?", "label": 1}
+{"text": "What does Map 5 focus on regarding characterizing impacts?", "label": 1}
+{"text": "What outcomes should organizations have after completing the Map function?", "label": 1}
+{"text": "How does the Map function support the initial go/no-go decision?", "label": 1}
+{"text": "What does interdisciplinary collaboration mean in the context of Map 1.2?", "label": 1}
+{"text": "What is the purpose of the Measure function?", "label": 1}
+{"text": "What are the main categories under Measure in Table 3?", "label": 1}
+{"text": "What does Measure 1 address about methods and metrics?", "label": 1}
+{"text": "What does Measure 2 cover regarding evaluating trustworthy characteristics?", "label": 1}
+{"text": "How many subcategories exist under Measure 2 and what do they generally cover?", "label": 1}
+{"text": "What does Measure 2.6 focus on regarding safety evaluation?", "label": 1}
+{"text": "What does Measure 2.11 cover regarding fairness and bias?", "label": 1}
+{"text": "What does Measure 2.12 address regarding environmental impact?", "label": 1}
+{"text": "What does Measure 3 focus on regarding tracking risks over time?", "label": 1}
+{"text": "What does Measure 4 cover about feedback on measurement efficacy?", "label": 1}
+{"text": "What is the purpose of the Manage function?", "label": 1}
+{"text": "What are the main categories under Manage in Table 4?", "label": 1}
+{"text": "What does Manage 1 address regarding prioritizing and responding to risks?", "label": 1}
+{"text": "What risk response options are mentioned under Manage 1.3?", "label": 1}
+{"text": "What does Manage 2 cover about maximizing benefits and minimizing impacts?", "label": 1}
+{"text": "What does Manage 3 address about third-party risks and benefits?", "label": 1}
+{"text": "What does Manage 4 cover about risk treatment and monitoring?", "label": 1}
+{"text": "What is negative residual risk according to Manage 1.4?", "label": 1}
+{"text": "What does Manage 2.4 say about deactivating AI systems?", "label": 1}
+{"text": "How does the Manage function relate to incident communication?", "label": 1}
+{"text": "What are AI RMF profiles?", "label": 1}
+{"text": "What's the difference between a Current Profile and a Target Profile?", "label": 1}
+{"text": "What is a cross-sectoral profile according to the document?", "label": 1}
+{"text": "Can you give an example of a use-case profile mentioned in the document?", "label": 1}
+{"text": "How do profiles help organizations manage AI risk?", "label": 1}
+{"text": "Does the AI RMF prescribe a specific profile template?", "label": 1}
+{"text": "What gaps can comparing Current and Target Profiles reveal?", "label": 1}
+{"text": "How do temporal profiles differ from use-case profiles?", "label": 1}
+{"text": "What sectors or applications might have their own AI RMF profile?", "label": 1}
+{"text": "How can profiles help with resource allocation for risk management?", "label": 1}
+{"text": "What tasks are performed by AI Design actors?", "label": 1}
+{"text": "What tasks are performed by AI Development actors?", "label": 1}
+{"text": "What tasks are performed by AI Deployment actors?", "label": 1}
+{"text": "What is included in Operation and Monitoring tasks?", "label": 1}
+{"text": "What are TEVV tasks and when do they occur in the lifecycle?", "label": 1}
+{"text": "What do Human Factors tasks involve?", "label": 1}
+{"text": "What is the role of a Domain Expert according to Appendix A?", "label": 1}
+{"text": "What does AI Impact Assessment involve?", "label": 1}
+{"text": "What are Procurement tasks in the context of AI actors?", "label": 1}
+{"text": "What are Governance and Oversight tasks?", "label": 1}
+{"text": "Who are third-party entities according to the AI RMF?", "label": 1}
+{"text": "How does the document define end users of an AI system?", "label": 1}
+{"text": "What are affected individuals or communities according to Appendix A?", "label": 1}
+{"text": "Who are considered \"other AI actors\" in the framework?", "label": 1}
+{"text": "How is the general public described as an AI actor group?", "label": 1}
+{"text": "What distinguishes AI actors who verify models from those who build them?", "label": 1}
+{"text": "What kind of expertise do human factors professionals provide?", "label": 1}
+{"text": "What's the difference between AI Design and AI Development tasks?", "label": 1}
+{"text": "How does TEVV differ during deployment versus during operations?", "label": 1}
+{"text": "What actors are involved in decisions about AI system decommissioning?", "label": 1}
+{"text": "How do AI risks differ from traditional software risks according to Appendix B?", "label": 1}
+{"text": "What AI-specific risks are new or increased compared to traditional software?", "label": 1}
+{"text": "What does the document say about pre-trained models and increased risk?", "label": 1}
+{"text": "What gaps exist in current frameworks for addressing AI risks like generative AI?", "label": 1}
+{"text": "What issues does Appendix C raise about human-AI interaction?", "label": 1}
+{"text": "How can human-AI interaction amplify biases according to Appendix C?", "label": 1}
+{"text": "Why is presenting AI system information to humans described as complex?", "label": 1}
+{"text": "What are the ten attributes of the AI RMF listed in Appendix D?", "label": 1}
+{"text": "Why does the AI RMF aim to be law- and regulation-agnostic?", "label": 1}
+{"text": "What does it mean for the AI RMF to be described as a \"living document\"?", "label": 1}
+{"text": "What is the goal of the PetPal application?", "label": 1}
+{"text": "What kind of animals can be reported on PetPal?", "label": 1}
+{"text": "What's the overall purpose of the PetPal Summer Practice 2026 project?", "label": 1}
+{"text": "What features help reunite lost pets with owners according to the spec?", "label": 1}
+{"text": "What can users post to help identify a missing pet?", "label": 1}
+{"text": "What's the classification level of the PetPal document?", "label": 1}
+{"text": "Is PetPal meant to work across a specific local area or globally?", "label": 1}
+{"text": "What kind of app is PetPal described as in the requirements document?", "label": 1}
+{"text": "What problem does PetPal aim to solve?", "label": 1}
+{"text": "Summarize the PetPal project requirements document.", "label": 1}
+{"text": "What should the landing page display when a user is not signed in?", "label": 1}
+{"text": "What login fields are required on the PetPal landing page?", "label": 1}
+{"text": "Is the \"Forgot password\" link supposed to be functional initially?", "label": 1}
+{"text": "Is the \"Create account\" button implemented in the first stage?", "label": 1}
+{"text": "What kind of images should appear on the landing page?", "label": 1}
+{"text": "Can landing page images be AI-generated according to the spec?", "label": 1}
+{"text": "What information about the app should the landing page show?", "label": 1}
+{"text": "What happens on the login form regarding email and password fields?", "label": 1}
+{"text": "What's the initial state of account creation functionality?", "label": 1}
+{"text": "Describe the landing page requirements for PetPal.", "label": 1}
+{"text": "What should the header of the PetPal app include?", "label": 1}
+{"text": "What functionality does the dropdown in the header provide?", "label": 1}
+{"text": "Where does the authenticated user's name appear?", "label": 1}
+{"text": "What does the navigation menu provide in PetPal?", "label": 1}
+{"text": "How does the header change once a user logs in?", "label": 1}
+{"text": "What logout functionality is described in the requirements?", "label": 1}
+{"text": "Is there a specific structure required for the navigation menu?", "label": 1}
+{"text": "What UI elements are part of the app's header?", "label": 1}
+{"text": "What should the Dashboard page display?", "label": 1}
+{"text": "What is the purpose of the cards on the Dashboard page?", "label": 1}
+{"text": "What does the carousel on the Dashboard show?", "label": 1}
+{"text": "What kind of latest images might appear in the dashboard carousel?", "label": 1}
+{"text": "How does the Dashboard help users access app functionalities?", "label": 1}
+{"text": "Describe the Dashboard page requirements in PetPal.", "label": 1}
+{"text": "What UI components make up the Dashboard page?", "label": 1}
+{"text": "What should the About Us page include?", "label": 1}
+{"text": "What information about the application appears on the About Us page?", "label": 1}
+{"text": "What technical details should be shown on the About Us page?", "label": 1}
+{"text": "What is planned for the Contact Us page in a later stage?", "label": 1}
+{"text": "Does the Contact Us page require authentication?", "label": 1}
+{"text": "What form embedding options are mentioned for the Contact Us page?", "label": 1}
+{"text": "How are team members presented on the About Us page?", "label": 1}
+{"text": "What's included alongside team member presentations on About Us?", "label": 1}
+{"text": "What user roles are defined in the PetPal application?", "label": 1}
+{"text": "What is the Administrator role and when is it introduced?", "label": 1}
+{"text": "How are administrators identified in the system?", "label": 1}
+{"text": "What elevated access do administrators have compared to regular users?", "label": 1}
+{"text": "What can administrators do regarding photo moderation?", "label": 1}
+{"text": "Does the admin dashboard include charts according to the spec?", "label": 1}
+{"text": "What CRUD permissions do administrators have?", "label": 1}
+{"text": "Is the Administrator role part of the initial release or a later stage?", "label": 1}
+{"text": "What should the report list display for each pet report?", "label": 1}
+{"text": "How many report tiles should be shown at minimum according to the spec?", "label": 1}
+{"text": "What statuses can a pet report have?", "label": 1}
+{"text": "How should reports be sorted by default?", "label": 1}
+{"text": "What filtering options should the report list support?", "label": 1}
+{"text": "What search functionality is required for the report list?", "label": 1}
+{"text": "Where should the \"Add report\" button be located?", "label": 1}
+{"text": "What happens after successfully adding a new report?", "label": 1}
+{"text": "What fields appear in a report tile summary?", "label": 1}
+{"text": "Does the report list support pagination?", "label": 1}
+{"text": "What information should the report details page display?", "label": 1}
+{"text": "What layout is used for displaying report details?", "label": 1}
+{"text": "What gallery functionality is included on the report details page?", "label": 1}
+{"text": "Can users upload or take a photo directly from the report details page?", "label": 1}
+{"text": "What contact details are shown on the report details page?", "label": 1}
+{"text": "Is the report details page editable directly, or read-only?", "label": 1}
+{"text": "What's included in the photo gallery on the report details page?", "label": 1}
+{"text": "How does a user view multiple photos for a report?", "label": 1}
+{"text": "How can a user edit a report from the details page?", "label": 1}
+{"text": "What happens when the Cancel button is clicked while editing a report?", "label": 1}
+{"text": "Who is allowed to edit or delete a report?", "label": 1}
+{"text": "How does a user mark a report as resolved or reunited?", "label": 1}
+{"text": "What form fields are shown when editing a report?", "label": 1}
+{"text": "Is editing restricted to the report's original creator?", "label": 1}
+{"text": "What button is used to enter edit mode from the details page?", "label": 1}
+{"text": "What happens if a user tries to edit someone else's report?", "label": 1}
+{"text": "What photo upload options does PetPal support?", "label": 1}
+{"text": "What file types are allowed for photo uploads?", "label": 1}
+{"text": "What's the maximum file size allowed for photo uploads?", "label": 1}
+{"text": "Can users preview a photo before submitting it?", "label": 1}
+{"text": "Can a user remove or replace a photo before submitting?", "label": 1}
+{"text": "Can multiple photos be attached to a single report?", "label": 1}
+{"text": "What validation happens before a photo is uploaded?", "label": 1}
+{"text": "Does PetPal support taking a photo directly with the device camera?", "label": 1}
+{"text": "What stretch features are listed for the PetPal project?", "label": 1}
+{"text": "Can PetPal generate a printable missing pet poster?", "label": 1}
+{"text": "What format is the missing pet poster generated in?", "label": 1}
+{"text": "Does PetPal support social media sharing?", "label": 1}
+{"text": "What map view feature is described as a stretch goal?", "label": 1}
+{"text": "What email notification feature is mentioned as a stretch goal?", "label": 1}
+{"text": "Does PetPal support image editing like cropping or rotating?", "label": 1}
+{"text": "Can users leave comments or tips on a report?", "label": 1}
+{"text": "What's an example of a comment a user might leave on a report?", "label": 1}
+{"text": "Are stretch features required for the initial release?", "label": 1}
+{"text": "Can you explain that last function in more detail?", "label": 1}
+{"text": "What did the document say about that risk category again?", "label": 1}
+{"text": "Can you go back to the part about trustworthiness characteristics?", "label": 1}
+{"text": "What was that section about third-party risks called?", "label": 1}
+{"text": "Could you clarify the difference between those two functions you mentioned?", "label": 1}
+{"text": "What page was that table on?", "label": 1}
+{"text": "Can you remind me what the seven characteristics were?", "label": 1}
+{"text": "What's the subcategory number for the third-party risk requirement?", "label": 1}
+{"text": "Which appendix covers the actor roles again?", "label": 1}
+{"text": "Can you summarize what we just discussed about the framework?", "label": 1}
+{"text": "Can you remind me what fields are needed for the report form?", "label": 1}
+{"text": "What was that bit about photo size limits again?", "label": 1}
+{"text": "Can you go back to the part about admin permissions?", "label": 1}
+{"text": "What page mentioned the carousel feature?", "label": 1}
+{"text": "Can you clarify what \"own reports only\" means in the spec?", "label": 1}
+{"text": "What was listed under the stretch features again?", "label": 1}
+{"text": "Can you remind me about the login form fields?", "label": 1}
+{"text": "What did the document say about the dashboard cards?", "label": 1}
+{"text": "Can we revisit the report status options?", "label": 1}
+{"text": "What's the difference between the edit and details view again?", "label": 1}
+{"text": "How does the AI RMF's risk management approach compare to the structure of the PetPal requirements document?", "label": 1}
+{"text": "Do both documents mention any kind of role-based access control?", "label": 1}
+{"text": "Is there anything about third-party data handling in the PetPal spec similar to the AI RMF's Govern function?", "label": 1}
+{"text": "Does the PetPal document mention anything about trustworthiness or fairness like the AI RMF does?", "label": 1}
+{"text": "Are there any AI-related risk considerations mentioned in the PetPal spec?", "label": 1}
+{"text": "How do the two documents differ in their overall purpose?", "label": 1}
+{"text": "Does PetPal reference any AI system components that the NIST framework would apply to?", "label": 1}
+{"text": "Which document discusses accountability structures?", "label": 1}
+{"text": "Does the PetPal spec mention anything about explainability or transparency?", "label": 1}
+{"text": "Compare the level of technical detail between the two uploaded documents.", "label": 1}
+{"text": "What is GOVERN?", "label": 1}
+{"text": "What is MAP?", "label": 1}
+{"text": "What is MEASURE?", "label": 1}
+{"text": "What is MANAGE?", "label": 1}
+{"text": "What is TEVV?", "label": 1}
+{"text": "What is AI RMF?", "label": 1}
+{"text": "Who publishes the AI RMF?", "label": 1}
+{"text": "When was the AI RMF published?", "label": 1}
+{"text": "What's the AI RMF's DOI link?", "label": 1}
+{"text": "What's Figure 5 about?", "label": 1}
+{"text": "What is PetPal?", "label": 1}
+{"text": "What's the app's main feature?", "label": 1}
+{"text": "Who are the users of PetPal?", "label": 1}
+{"text": "What animals does PetPal support?", "label": 1}
+{"text": "What's a \"report\" in PetPal?", "label": 1}
+{"text": "What's the admin role for?", "label": 1}
+{"text": "What page shows report details?", "label": 1}
+{"text": "What's the max photo size?", "label": 1}
+{"text": "What's the stretch goal list?", "label": 1}
+{"text": "What's the classification of this document?", "label": 1}
+{"text": "Can you explain in detail how the AI RMF's Govern function interacts with the Map, Measure, and Manage functions throughout an AI system's lifecycle?", "label": 1}
+{"text": "What is the full set of considerations organizations should weigh when determining their risk tolerance for a given AI system, according to the framework?", "label": 1}
+{"text": "Can you walk me through all the subcategories listed under the Measure function's second category regarding trustworthy characteristics?", "label": 1}
+{"text": "How does the AI RMF describe the relationship between accuracy, robustness, and overall system validity, including any tensions between them?", "label": 1}
+{"text": "What detailed guidance does the document give regarding third-party AI risks throughout the Govern, Map, and Manage functions?", "label": 1}
+{"text": "Can you explain the full lifecycle of an AI system as depicted in Figure 2, including all four key dimensions and how People and Planet fits in?", "label": 1}
+{"text": "What does the AI RMF say in detail about the challenges of measuring AI risk, including third-party risk, emergent risk, and lifecycle-stage risk?", "label": 1}
+{"text": "Can you provide a comprehensive explanation of all seven trustworthiness characteristics and how they interrelate according to Figure 4?", "label": 1}
+{"text": "What does Appendix B say in full detail about how AI risks are fundamentally different from traditional software risks?", "label": 1}
+{"text": "Can you explain the complete set of ten attributes NIST used to guide the development of the AI RMF, as listed in Appendix D?", "label": 1}
+{"text": "Can you walk me through everything required for the report list feature, including sorting, filtering, search, and pagination?", "label": 1}
+{"text": "What is the complete set of functional requirements for the report details page, including the photo gallery and contact information?", "label": 1}
+{"text": "Can you explain in detail how photo upload, validation, and preview should work according to the PetPal spec?", "label": 1}
+{"text": "What are all the differences between the initial release requirements and the later-stage features mentioned throughout the document?", "label": 1}
+{"text": "Can you describe the full set of stretch features listed for PetPal and explain what each one would add to the app?", "label": 1}
+{"text": "What is the complete workflow for editing a report, from clicking the edit button to saving or canceling changes?", "label": 1}
+{"text": "Can you detail all the components that should appear on the landing page for an unauthenticated PetPal user?", "label": 1}
+{"text": "What does the document say about admin capabilities in full, including CRUD, moderation, and the admin dashboard?", "label": 1}
+{"text": "Can you summarize every page mentioned in the PetPal general functional requirements section?", "label": 1}
+{"text": "What's the complete list of fields and information required when reporting a lost or found pet?", "label": 1}
+{"text": "report status?", "label": 1}
+{"text": "admin role details?", "label": 1}
+{"text": "photo upload limits?", "label": 1}
+{"text": "dashboard carousel?", "label": 1}
+{"text": "govern function summary", "label": 1}
+{"text": "trustworthiness characteristics list", "label": 1}
+{"text": "map function categories", "label": 1}
+{"text": "measure subcategories", "label": 1}
+{"text": "stretch features list", "label": 1}
+{"text": "landing page requirements", "label": 1}
+{"text": "In simple terms, what does it mean for an AI system to be \"explainable\"?", "label": 1}
+{"text": "Put simply, why does the framework care about privacy?", "label": 1}
+{"text": "In your own words, what's the point of the Manage function?", "label": 1}
+{"text": "Simply put, what does \"residual risk\" mean?", "label": 1}
+{"text": "Explain like I'm new to this: what's the AI RMF Core?", "label": 1}
+{"text": "In plain language, why does fairness matter for AI systems?", "label": 1}
+{"text": "Could you paraphrase what the document means by \"socio-technical\"?", "label": 1}
+{"text": "In simpler terms, what's the difference between Map and Measure?", "label": 1}
+{"text": "Explain simply why third-party AI components are risky.", "label": 1}
+{"text": "In basic terms, what does the Govern function actually do?", "label": 1}
+{"text": "In simple terms, what can a regular user do on PetPal?", "label": 1}
+{"text": "Put plainly, what happens when someone reports a lost pet?", "label": 1}
+{"text": "In your own words, what's the point of the report details page?", "label": 1}
+{"text": "Simply put, how does someone mark a pet as found?", "label": 1}
+{"text": "Explain in basic terms what an admin can do that a regular user can't.", "label": 1}
+{"text": "In plain language, what's the dashboard for?", "label": 1}
+{"text": "Could you paraphrase the photo upload rules?", "label": 1}
+{"text": "In simpler terms, what's the difference between the report list and report details pages?", "label": 1}
+{"text": "Explain simply what the stretch features would add.", "label": 1}
+{"text": "In basic terms, what's required to log into PetPal?", "label": 1}
+{"text": "What does the document say about that thing with the poster generation?", "label": 1}
+{"text": "Can you tell me more about the part regarding data poisoning?", "label": 1}
+{"text": "What about the section on workforce diversity?", "label": 1}
+{"text": "Tell me more about that carousel thing on the dashboard.", "label": 1}
+{"text": "What's that bit about human oversight processes?", "label": 1}
+{"text": "Can you expand on the part about environmental impact assessment?", "label": 1}
+{"text": "What about the section discussing map view for reports?", "label": 1}
+{"text": "Tell me more about the accountability structures part.", "label": 1}
+{"text": "What's that requirement about email notifications for matching areas?", "label": 1}
+{"text": "Can you expand on the explanation of bias categories?", "label": 1}
+{"text": "Can you go deeper into what we just talked about regarding the Measure function?", "label": 1}
+{"text": "Based on what you told me earlier, how does that relate to the Manage function?", "label": 1}
+{"text": "Following up on the trustworthiness characteristics, which one is most emphasized?", "label": 1}
+{"text": "Going back to the report list feature, what filters are available?", "label": 1}
+{"text": "You mentioned the admin role earlier, can you list its full permissions again?", "label": 1}
+{"text": "Earlier you described the AI actors, can you list the additional ones from Appendix A?", "label": 1}
+{"text": "Building on what you said about photo validation, what are the exact file size limits?", "label": 1}
+{"text": "Continuing from before, what does the framework say about decommissioning AI systems?", "label": 1}
+{"text": "As a follow-up to the profiles discussion, what's an example of a cross-sectoral profile?", "label": 1}
+{"text": "Following up on the edit report feature, who can access the edit button?", "label": 1}
+{"text": "What does the AI RMF say about AI system inventories?", "label": 1}
+{"text": "Does PetPal's spec mention anything about pagination for the report list?", "label": 1}
+{"text": "What's the difference between a Current Profile and Target Profile again?", "label": 1}
+{"text": "What photo functionalities are shared between the report details and edit pages?", "label": 1}
+{"text": "What does Govern 1.7 say about decommissioning AI systems?", "label": 1}
+{"text": "What does the PetPal document say about the \"Add report\" button placement?", "label": 1}
+{"text": "How does the AI RMF define \"AI actor\" formally?", "label": 1}
+{"text": "What's required for the About Us page's technical description?", "label": 1}
+{"text": "What does Measure 2.13 evaluate?", "label": 1}
+{"text": "Does the PetPal app support search by location?", "label": 1}
+{"text": "What NIST publication number is assigned to the AI RMF?", "label": 1}
+{"text": "What's the difference between \"lost\", \"found\", and \"reunited\" statuses in PetPal?", "label": 1}
+{"text": "How does the framework define \"AI lifecycle\"?", "label": 1}
+{"text": "What's the classification restriction level noted at the top of the PetPal document?", "label": 1}
+{"text": "What does the AI RMF Appendix C say about empowering humans to challenge AI outputs?", "label": 1}
+{"text": "Does the PetPal spec mention anything about a printable poster feature?", "label": 1}
+{"text": "What's the significance of the two-number versioning system mentioned in the AI RMF update schedule?", "label": 1}
+{"text": "What UI element lets a PetPal user log out?", "label": 1}
+{"text": "How does the AI RMF define the term \"AI lifecycle dimensions\"?", "label": 1}
+{"text": "What does the PetPal spec say about validating uploaded file types?", "label": 1}
+{"text": "What's the update schedule for the AI RMF according to the document?", "label": 1}
+{"text": "How many pet reports should be displayed at minimum in the report list view?", "label": 1}
+{"text": "What does the AI RMF say about the AI RMF Playbook?", "label": 1}
+{"text": "Does PetPal's report details page support editing directly, or does it link elsewhere?", "label": 1}
+{"text": "What's the final section of the AI RMF document about, in terms of its listed attributes?", "label": 1}

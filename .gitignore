@@ -8,3 +8,21 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Models
+models/
+
+# Training checkpoints
+src/router/checkpoints/
+
+# Generated files
+embeddings.json
+faiss.index
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
